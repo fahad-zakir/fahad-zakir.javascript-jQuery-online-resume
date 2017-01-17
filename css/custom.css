@@ -1,0 +1,108 @@
+body {
+    background: url(../images/white-bg.jpg);
+    color: black;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.work-entry {
+    background: lightgray;
+}
+
+.project-entry {
+    background: lightgray;
+}
+
+.biopic {
+    border-radius: 20%;
+}
+
+.flex-item {
+    font-size: 16px;
+    list-style: none;
+    margin-bottom: 50px;
+}
+
+.location-text1 {
+    font-style: italic;
+    font-size: 14px;
+    color: #999;
+    line-height: 16px;
+    float: right;
+}
+
+.degree {
+    font-style: italic;
+    font-size: 14px;
+    color: #999;
+    line-height: 16px;
+}
+
+h3 {
+    /*margin-left: -65px;*/
+    padding-top: 30px;
+}
+
+.flex-title {
+    width: 100%;
+    padding: 0;
+    padding: 20px 0 20px 5%;
+}
+
+.welcome-message {
+    font-size: 15px;
+}
+
+.copyright {
+    font-size: 16px;
+    padding-bottom: 0;
+}
+
+a:hover {
+    background-color: transparent;
+}
+
+#projects,
+#workExperience {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+.work-entry,
+.project-entry {
+    padding: 0;
+    width: calc(50% - 10px);
+    padding: 10px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    margin-right: 10px;
+    margin-bottom: 30px;
+}
+
+.work-entry:nth-child(2),
+.project-entry:nth-child(2) {
+    margin-left: 10px;
+    margin-right: 0;
+}
+
+@media screen and (max-width: 767px) {
+    .work-entry,
+    .project-entry {
+        padding: 0;
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #000;
+        border-radius: 5px;
+        margin: 0;
+        margin-bottom: 30px;
+    }
+
+    .work-entry:nth-child(2),
+    .project-entry:nth-child(2) {
+        margin: 0;
+        margin-bottom: 30px;
+    }
+}
