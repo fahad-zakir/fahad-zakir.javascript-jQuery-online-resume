@@ -113,7 +113,7 @@ work.display();
 var projects = {
     "projects": [{
             "title": "Udacity Online Resume",
-            "url": "https://github.com/maktub35/maktub35.github.io-frontend-nanodegree-online-resume",
+            "url": "https://maktub35.github.io/maktub35.github.io-frontend-nanodegree-online-resume/",
             "dates": "December 2016",
             "description": "My online-resume which you are currently viewing using JavaScript & JQuery",
             "images": ["images/resume.png"]
