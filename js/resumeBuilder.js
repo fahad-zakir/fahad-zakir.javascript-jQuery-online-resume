@@ -113,21 +113,21 @@ work.display();
 var projects = {
     "projects": [{
             "title": "Udacity Online Resume",
-            "url": "https://maktub35.github.io/maktub35.github.io-frontend-nanodegree-online-resume/",
+            "url": "https://fahad-zakir.github.io/fahad-zakir.github.io-frontend-nanodegree-online-resume/",
             "dates": "December 2016",
             "description": "My online-resume which you are currently viewing using JavaScript & JQuery",
             "images": ["images/resume.png"]
         },
         {
             "title": "Udacity Build a Portfolio",
-            "url": "https://maktub35.github.io/maktub35-maktub35.github.io-portfolio-site/",
+            "url": "https://fahad-zakir.github.io/fahad-zakir-fahad-zakir.github.io-portfolio-site/",
             "dates": "November 2016",
             "description": "This is the first portfolio that I built which is fully responsive using HTML and CSS.",
             "images": ["images/portfolio.png"]
         },
         {
             "title": "Udacity Animal Card",
-            "url": "https://maktub35.github.io/maktub35.github.io-tradingcard/",
+            "url": "https://fahad-zakir.github.io/fahad-zakir.github.io-tradingcard/",
             "dates": "October 2016",
             "description": "We made an animal trading card in which we learned how to use CSS with properties such as box-shadow.",
             "images": ["images/cat.png"]
