@@ -1,6 +1,5 @@
 # Fahad-Zakir Online-Resume
-https://fahad-zakir.github.io/fahad-zakir.github.io-frontend-nanodegree-online-resume/
-# Project Details
+http://fahadzakir.com/fahad-zakir.javascript-jQuery-online-resume/# Project Details
 ## How do I complete this project?
 Review the Online Resume [Project Rubric](https://review.udacity.com/?_ga=1.189245867.12280332.1465333852#!/projects/2962818615/rubric).
 
