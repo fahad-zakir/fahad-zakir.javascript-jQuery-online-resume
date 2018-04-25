@@ -1,18 +1,24 @@
 var bio = {
-    "name": "Fahad Zakir",
-    "role": "Web Developer",
-    "contacts": {
-        "mobile": "407-446-9070",
-        "email": "abumusa1981@hotmail.com",
-        "github": "maktub35",
-        "twitter": "@fahadzakir35",
-        "location": "Orlando, FL"
-    },
-    "welcomeMessage": "A husband, a father of two, and an amatuer NBA statistician. My family migrated from Pakistan to the United States when I was 9 years old. Since then, I have been committed to making the most of what my parents sacrificed so much for.",
-    "skills": [
-        "images/html.png", "images/css.png", "images/bootstrap.png", "images/js.png", "images/jquery.png", "images/ps.png"
-    ],
-    "biopic": "images/me4.jpg"
+  name: "Fahad Zakir",
+  role: "Web Developer",
+  contacts: {
+    mobile: "407-446-9070",
+    email: "fahadzakir11@gmail.com",
+    github: "https://github.com/fahad-zakir",
+    twitter: "@FahadZakir7",
+    location: "Orlando, FL"
+  },
+  welcomeMessage:
+    "A husband, a father of two, and an amatuer NBA statistician. My family migrated from Pakistan to the United States when I was 9 years old. Since then, I have been committed to making the most of what my parents sacrificed so much for.",
+  skills: [
+    "images/html.png",
+    "images/css.png",
+    "images/bootstrap.png",
+    "images/js.png",
+    "images/jquery.png",
+    "images/ps.png"
+  ],
+  biopic: "images/me4.jpg"
 };
 
 bio.display = function() {
