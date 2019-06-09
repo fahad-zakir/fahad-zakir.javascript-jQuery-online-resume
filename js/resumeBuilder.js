@@ -9,7 +9,7 @@ var bio = {
     location: "Orlando, FL"
   },
   welcomeMessage:
-    "A husband, a father of two, and an amatuer NBA statistician. My family migrated from Pakistan to the United States when I was 9 years old. Since then, I have been committed to making the most of what my parents sacrificed so much for.",
+    "A husband, a father of two, and an amatuer NBA statistician. My family to the United States when I was 9 years old. Since then, I have been committed to making the most of what my parents sacrificed so much for.",
   skills: [
     "images/html.png",
     "images/css.png",
