@@ -69,7 +69,7 @@ var work = {
             "title": "Equity Trader",
             "dates": "June 2001 - September 2016",
             "location": "Orlando, FL",
-            "description": "I devised trading strategies to monitor, gather, research and anlayze the market information on a day to day basis.  I managed a $200,000 account for equity buying and selling while investing in different stock sectors in NASDAQ & NYSE.  I created and carried-out different trading strategies to create profit and losses.  I used the pioneer trading software in Lightspeed trading along with the TC2000 charting software."
+            "description": "I devised trading strategies to monitor, gather, research and anlayze the market information on a day to day basis.  I managed a $125,000 account for equity buying and selling while investing in different stock sectors in NASDAQ & NYSE.  I created and carried-out different trading strategies to create profit and losses.  I used the pioneer trading software in Lightspeed trading along with the TC2000 charting software."
         },
         {
             "employer": "The Athletes Foot",
@@ -77,7 +77,7 @@ var work = {
             "title": "Salesperson",
             "dates": "August 1998 - May 2001",
             "location": "Orlando, FL",
-            "description": "To assist customers in selecting shoes that was right for there needs and comfort"
+            "description": "To assist customers in selecting shoes that was right for their needs and comfort"
         }
     ]
 };
